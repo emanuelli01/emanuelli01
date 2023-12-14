@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript, C++, HTML and CSS
 - 📫 How to reach me: emanuellilucca@gmail.com
 
 <div>
