@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning C++ and Python
+- 🌱 I’m currently learning Python, PHP and HTML
 - 📫 How to reach me: emanuellilucca@gmail.com
 
 <div>
