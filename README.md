@@ -1,4 +1,4 @@
-- 🌱 Currently interested in Python and PHP 
+- 🌱 Currently interested in NodeJS and C++
 - 📫 How to reach me: emanuellilucca@gmail.com
 
 <div>
